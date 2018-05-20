@@ -1,4 +1,4 @@
-define(MachGND,0231B21A) //75 ? 83 BD ? ? FF FF 00 75 ? 8B
+define(MachGND,021E00E0) //75 ? 83 BD ? ? FF FF 00 75 ? 8B
 [enable]
 MachGND://Mach GND (Melee/Basic attacks)
 db EB
